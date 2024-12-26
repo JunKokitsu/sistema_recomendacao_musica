@@ -25,13 +25,13 @@ Utilização do algoritmo K-Means para agrupar as músicas em clusters.
 Análise dos clusters para avaliar a qualidade do agrupamento e a interpretação dos resultados.
 Recomendação:
 Cálculo da distância euclidiana entre as músicas para encontrar as mais similares dentro de um mesmo cluster.
-Utilização da biblioteca Spotipy para enriquecer as recomendações com informações como nome da música e capa do álbum.
+Utilização da biblioteca Spotify para enriquecer as recomendações com informações como nome da música e capa do álbum.
 Desenvolvimento do Sistema de Recomendação:
 Criação de uma função que recebe uma música como entrada e retorna um conjunto de recomendações personalizadas.
 
 Resultados:
 
-O sistema de recomendação desenvolvido mostrou-se eficaz em sugerir músicas relevantes aos usuários, com base em suas preferências musicais. A utilização do PCA e do K-Means permitiu agrupar as músicas de forma eficiente e identificar padrões interessantes nos dados. A integração da biblioteca Spotipy enriqueceu a experiência do usuário, fornecendo informações visuais sobre as músicas recomendadas.
+O sistema de recomendação desenvolvido mostrou-se eficaz em sugerir músicas relevantes aos usuários, com base em suas preferências musicais. A utilização do PCA e do K-Means permitiu agrupar as músicas de forma eficiente e identificar padrões interessantes nos dados. A integração da biblioteca Spotify enriqueceu a experiência do usuário, fornecendo informações visuais sobre as músicas recomendadas.
 
 Tecnologias Utilizadas:
 
