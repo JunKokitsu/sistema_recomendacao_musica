@@ -4,7 +4,7 @@ Título: Sistema de Recomendação Musical baseado em Clustering e Análise de C
 Descrição:
 
 Este projeto tem como objetivo desenvolver um sistema de recomendação musical personalizado, utilizando técnicas de aprendizado de máquina. Através da análise de um vasto conjunto de dados 
-musicais, exploramos a relação entre diferentes características das músicas e agrupamos as músicas em clusters semelhantes. Com base nesses clusters, desenvolvemos um algoritmo de recomendação 
+musicais, explorei a relação entre diferentes características das músicas e agrupei as músicas em clusters semelhantes. Com base nesses clusters, desenvolvi um algoritmo de recomendação 
 que sugere novas músicas aos usuários com base em suas preferências.
 
 Metodologia:
